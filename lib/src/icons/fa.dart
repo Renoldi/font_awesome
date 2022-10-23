@@ -3504,12 +3504,10 @@ class Fa {
 
  static const int faMessagesQuestion=0xe1e7; 
 
- static const int faBible,
  static const int faBookBible=0xf647; 
 
  static const int faO=0x4f; 
 
- static const int faMedkit,
  static const int faSuitcaseMedical=0xf0fa; 
 
  static const int faBriefcaseArrowRight=0xe2f2; 
@@ -3526,12 +3524,10 @@ class Fa {
 
  static const int faDreidel=0xf792; 
 
- static const int faFemale,
  static const int faPersonDress=0xf182; 
 
  static const int faCommentDollar=0xf651; 
 
- static const int faBriefcaseClock,
  static const int faBusinessTime=0xf64a; 
 
  static const int faFlowerTulip=0xf801; 
@@ -3540,24 +3536,20 @@ class Fa {
 
  static const int faCloudDrizzle=0xf738; 
 
- static const int faTableCellsLarge,
- static const int faThLarge=0xf009; 
+ static const int faTableCellsLarge =0xf009; 
 
- static const int faBookTanakh,
- static const int faTanakh=0xf827; 
+ static const int faBookTanakh =0xf827; 
 
  static const int faSolarSystem=0xe02f; 
 
  static const int faSealQuestion=0xe243; 
 
- static const int faPhoneVolume,
- static const int faVolumeControlPhone=0xf2a0; 
+ static const int faPhoneVolume =0xf2a0; 
 
  static const int faDiscDrive=0xf8b5; 
 
  static const int faHatCowboySide=0xf8c1; 
 
- static const int faRows,
  static const int faTableRows=0xe292; 
 
  static const int faMapMarkerExclamation=0xf608; 
@@ -3572,10 +3564,8 @@ class Fa {
 
  static const int faSquareArrowDownRight=0xe262; 
 
- static const int faBookSparkles,
- static const int faBookSpells=0xf6b8; 
+ static const int faBookSparkles =0xf6b8; 
 
- static const int faWasher,
  static const int faWashingMachine=0xf898; 
 
  static const int faChild=0xf1ae; 
@@ -3598,8 +3588,7 @@ class Fa {
 
  static const int faStretcher=0xf825; 
 
- static const int faBookLaw,
- static const int faBookSection=0xe0c1; 
+ static const int faBookLaw =0xe0c1; 
 
  static const int faInboxes=0xe1bb; 
 
@@ -3613,9 +3602,7 @@ class Fa {
 
  static const int faSquare1=0xe256; 
 
- static const int faBirthdayCake,
- static const int faCakeCandles,
- static const int faCake=0xf1fd; 
+ static const int faCakeCandles=0xf1fd; 
 
  static const int faHeadSide=0xf6e9; 
 
@@ -3625,7 +3612,6 @@ class Fa {
 
  static const int faFaceTissue=0xe39c; 
 
- static const int faAngleDoubleUp,
  static const int faAnglesUp=0xf102; 
 
  static const int faPaperclip=0xf0c6; 
@@ -3679,28 +3665,23 @@ class Fa {
 
  static const int faNfcTrash=0xe1fd; 
 
- static const int faHourglassEmpty,
  static const int faHourglass=0xf254; 
 
  static const int faMountain=0xf6fc; 
 
- static const int faFileTimes,
  static const int faFileXmark=0xf317; 
 
- static const int faHomeHeart,
  static const int faHouseHeart=0xf4c9; 
 
  static const int faHouseChimneyBlank=0xe3b0; 
 
  static const int faMeterBolt=0xe1e9; 
 
- static const int faUserDoctor,
- static const int faUserMd=0xf0f0; 
+ static const int faUserDoctor =0xf0f0; 
 
  static const int faSlashBack=0x5c; 
 
- static const int faCircleInfo,
- static const int faInfoCircle=0xf05a; 
+ static const int faCircleInfo =0xf05a; 
 
  static const int faFishingRod=0xe3a8; 
 
@@ -3722,14 +3703,11 @@ class Fa {
 
  static const int faSleigh=0xf7cc; 
 
- static const int faArrowDown19,
- static const int faSortNumericAsc,
- static const int faSortNumericDown=0xf162; 
+ static const int faArrowDown19 =0xf162; 
 
  static const int faSquare4=0xe259; 
 
- static const int faHandHoldingDroplet,
- static const int faHandHoldingWater=0xf4c1; 
+ static const int faHandHoldingDroplet =0xf4c1; 
 
  static const int faWaveform=0xf8f1; 
 
@@ -3745,8 +3723,7 @@ class Fa {
 
  static const int faClockDesk=0xe134; 
 
- static const int faCalendarClock,
- static const int faCalendarTime=0xe0d2; 
+ static const int faCalendarClock =0xe0d2; 
 
  static const int faBraille=0xf2a1; 
 
@@ -3780,9 +3757,7 @@ class Fa {
 
  static const int faCheckDouble=0xf560; 
 
- static const int faArrowDownAZ,
- static const int faSortAlphaAsc,
- static const int faSortAlphaDown=0xf15d; 
+ static const int faArrowDownAZ =0xf15d; 
 
  static const int faBowlingBallPin=0xe0c3; 
 
@@ -3792,9 +3767,7 @@ class Fa {
 
  static const int faMoneyBillWheat=0xe52a; 
 
- static const int faCameraViewfinder,
- static const int faScreenshot=0xe0da; 
-
+ static const int faCameraViewfinder =0xe0da; 
 
  static const int faMessageMusic=0xf8af; 
 
@@ -3809,22 +3782,16 @@ class Fa {
  static const int faOctagonDivide=0xe203; 
 
  static const int faCookie=0xf563; 
-
- static const int faArrowLeftRotate,
- static const int faArrowRotateBack,
- static const int faArrowRotateBackward,
- static const int faArrowRotateLeft,
- static const int faUndo=0xf0e2; 
+ 
+ static const int faArrowRotateLeft =0xf0e2; 
 
  static const int faTvMusic=0xf8e6; 
 
- static const int faHardDrive,
- static const int faHdd=0xf0a0; 
+ static const int faHardDrive =0xf0a0; 
 
  static const int faReel=0xe238; 
 
- static const int faFaceGrinSquintTears,
- static const int faGrinSquintTears=0xf586; 
+ static const int faFaceGrinSquintTears =0xf586; 
 
  static const int faDumbbell=0xf44b; 
 
@@ -3842,19 +3809,15 @@ class Fa {
 
  static const int faArrowDownRight=0xe093; 
 
- static const int faPersonSkiingNordic,
- static const int faSkiingNordic=0xf7ca; 
+ static const int faPersonSkiingNordic =0xf7ca; 
 
  static const int faCalendarPlus=0xf271; 
 
- static const int faPersonFromPortal,
- static const int faPortalExit=0xe023; 
+ static const int faPersonFromPortal =0xe023; 
 
  static const int faPlaneArrival=0xf5af; 
 
- static const int faCowbellCirclePlus,
- static const int faCowbellMore=0xf8b4; 
-
+ static const int faCowbellCirclePlus =0xf8b4; 
 
  static const int faCircleLeft=0xf359; 
 
@@ -3865,7 +3828,6 @@ class Fa {
 
  static const int faSportsball=0xe44b; 
 
- static const int faSubway,
  static const int faTrainSubway=0xf239; 
 
  static const int faChartGantt=0xe0e4; 
@@ -3892,8 +3854,7 @@ class Fa {
 
  static const int faCircleUpRight=0xe129; 
 
- static const int faCloudBoltMoon,
- static const int faThunderstormMoon=0xf76d; 
+ static const int faCloudBoltMoon =0xf76d; 
 
  static const int faDna=0xf471; 
 
@@ -3903,12 +3864,9 @@ class Fa {
 
  static const int faCircle5=0xe0f2; 
 
- static const int faMinus,
- static const int faSubtract=0xf068; 
+ static const int faMinus =0xf068; 
 
- static const int faFireFlame,
- static const int faFlame=0xf6df; 
-
+ static const int faFireFlame =0xf6df; 
 
  static const int faRightToLine=0xf34c; 
 
@@ -3920,8 +3878,7 @@ class Fa {
 
  static const int faTrashSlash=0xe2b3; 
 
- static const int faArrowLeftLong,
- static const int faLongArrowLeft=0xf177; 
+ static const int faArrowLeftLong =0xf177; 
 
  static const int faPlugCircleCheck=0xe55c; 
 
@@ -3933,22 +3890,16 @@ class Fa {
 
  static const int faFrancSign=0xe18f; 
 
- static const int faFlaskPoison,
  static const int faFlaskRoundPoison=0xf6e0; 
 
  static const int faVolumeOff=0xf026; 
 
  static const int faBookCircleArrowRight=0xe0bc; 
 
- static const int faChartUser,
- static const int faUserChart=0xf6a3; 
-
- static const int faAmericanSignLanguageInterpreting,
- static const int faAslInterpreting,
- static const int faHandsAmericanSignLanguageInterpreting,
+ static const int faChartUser =0xf6a3; 
+ 
  static const int faHandsAslInterpreting=0xf2a3; 
 
- static const int faPresentationScreen,
  static const int faPresentation=0xf685; 
 
  static const int faCircleBolt=0xe0fe; 
@@ -3957,27 +3908,19 @@ class Fa {
 
  static const int faCartCircleArrowDown=0xe3ef; 
 
- static const int faHousePersonArrive,
- static const int faHousePersonReturn,
- static const int faHouseReturn=0xe011; 
+ static const int faHousePersonReturn =0xe011; 
 
-
- static const int faMessageTimes,
  static const int faMessageXmark=0xf4ab; 
 
- static const int faFileAward,
  static const int faFileCertificate=0xf5f3; 
 
  static const int faUserDoctorHairLong=0xe459; 
 
- static const int faCameraHome,
  static const int faCameraSecurity=0xf8fe; 
 
- static const int faCog,
  static const int faGear=0xf013; 
 
- static const int faDropletSlash,
- static const int faTintSlash=0xf5c7; 
+ static const int faDropletSlash =0xf5c7; 
 
  static const int faBookHeart=0xf499; 
 
@@ -3995,8 +3938,7 @@ class Fa {
 
  static const int faCarGarage=0xf5e2; 
 
- static const int faCartShopping,
- static const int faShoppingCart=0xf07a; 
+ static const int faCartShopping =0xf07a; 
 
  static const int faBookFont=0xe0bf; 
 
@@ -4010,20 +3952,17 @@ class Fa {
 
  static const int faTabletRugged=0xf48f; 
 
- static const int faTemperatureFrigid,
  static const int faTemperatureSnow=0xf768; 
 
  static const int faMoped=0xe3b9; 
 
- static const int faFaceSmilePlus,
- static const int faSmilePlus=0xf5b9; 
+ static const int faFaceSmilePlus =0xf5b9; 
 
  static const int faRadioTuner=0xf8d8; 
 
  static const int faFaceSwear=0xe399; 
 
- static const int faWaterArrowDown,
- static const int faWaterLower=0xf774; 
+ static const int faWaterArrowDown =0xf774; 
 
  static const int faScannerTouchscreen=0xf48a; 
 
@@ -4031,23 +3970,18 @@ class Fa {
 
  static const int faPlugCirclePlus=0xe55f; 
 
- static const int faPersonSkiJumping,
- static const int faSkiJump=0xf7c7; 
+ static const int faPersonSkiJumping =0xf7c7; 
 
  static const int faPlaceOfWorship=0xf67f; 
 
- static const int faWaterArrowUp,
- static const int faWaterRise=0xf775; 
+ static const int faWaterArrowUp =0xf775; 
 
- static const int faWaveformLines,
- static const int faWaveformPath=0xf8f2; 
+ static const int faWaveformLines =0xf8f2; 
 
  static const int faSplit=0xe254; 
 
- static const int faFilmCanister,
- static const int faFilmCannister=0xf8b7; 
+ static const int faFilmCanister =0xf8b7; 
 
- static const int faFolderTimes,
  static const int faFolderXmark=0xf65f; 
 
  static const int faToiletPaperBlank=0xf71f; 
@@ -4058,7 +3992,6 @@ class Fa {
 
  static const int faFolderMusic=0xe18d; 
 
- static const int faDesktopMedical,
  static const int faDisplayMedical=0xe166; 
 
  static const int faShareAll=0xf367; 
@@ -4392,7 +4325,6 @@ class Fa {
 
  static const int faAlignCenter=0xf037; 
 
- static const int faBookDead,
  static const int faBookSkull=0xf6b7; 
 
  static const int faDriversLicense,
@@ -4739,8 +4671,7 @@ class Fa {
 
  static const int faMicrophoneStand=0xf8cb; 
 
- static const int faBookOpenReader,
- static const int faBookReader=0xf5da; 
+ static const int faBookOpenReader =0xf5da; 
 
  static const int faFamilyDress=0xe301; 
 
@@ -5287,8 +5218,7 @@ class Fa {
 
  static const int faJetFighterUp=0xe518; 
 
- static const int faDiagramProject,
- static const int faProjectDiagram=0xf542; 
+ static const int faDiagramProject =0xf542; 
 
  static const int faPedestal=0xe20d; 
 
@@ -5296,7 +5226,6 @@ class Fa {
 
  static const int faSidebar=0xe24e; 
 
- static const int faFrostyHead,
  static const int faSnowmanHead=0xf79b; 
 
  static const int faCopy=0xf0c5; 
