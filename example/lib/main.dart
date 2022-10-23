@@ -55,7 +55,7 @@ class _MyAppState extends State<MyApp> {
                 child: Row(
                   children: const [
                     Text("FaLight "),
-                    Icon(FaLight(Fa.faAirConditioner)),
+                    Icon(FaLight(Fa.faMagnifyingGlass)),
                   ],
                 )),
             Container(
@@ -70,7 +70,7 @@ class _MyAppState extends State<MyApp> {
             Row(
               children: const [
                 Text("FaIcon "),
-                FaIcon(FaDuotone(Fa.faAirConditioner)),
+                FaIcon(FaDuotone(Fa.faDroplet)),
               ],
             ),
           ],
