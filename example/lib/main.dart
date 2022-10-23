@@ -39,7 +39,7 @@ class _MyAppState extends State<MyApp> {
                 child: Row(
                   children: const [
                     Text("FaRegular "),
-                    Icon(FaRegular(Fa.faAirConditioner)),
+                    Icon(FaRegular(Fa.faHotdog)),
                   ],
                 )),
             Container(
