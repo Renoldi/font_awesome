@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome/font_awesome.dart';
-
 void main() {
   runApp(const MyApp());
 }
@@ -73,7 +72,7 @@ class _MyAppState extends State<MyApp> {
                 Text("FaIcon "),
                 FaIcon(FaDuotone(Fa.faAirConditioner)),
               ],
-            )
+            ),
           ],
         ),
       ),
