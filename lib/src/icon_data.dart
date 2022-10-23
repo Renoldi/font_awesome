@@ -5,8 +5,8 @@ import 'package:flutter/widgets.dart';
 /// [IconData] for a font awesome brand icon from a code point
 ///
 /// Code points can be obtained from fontawesome.com
-class FaBrands extends IconData {
-  const FaBrands(int codePointBrand)
+class FaBrand extends IconData {
+  const FaBrand(int codePointBrand)
       : super(
           codePointBrand,
           fontFamily: 'FontAwesomeBrands',

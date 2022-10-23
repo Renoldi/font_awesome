@@ -1,4 +1,4 @@
-class FaBrand {
+class FaB {
   static const int faMonero = 0xf3d0;
   static const int faHooli = 0xf427;
   static const int faYelp = 0xf1e9;

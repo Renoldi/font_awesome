@@ -29,23 +29,51 @@ class _MyAppState extends State<MyApp> {
           children: [
             Container(
                 margin: const EdgeInsets.symmetric(vertical: 10),
-                child: const Icon(FaBrands(FaBrand.fa500px))),
+                child: Row(
+                  children: const [
+                    Text("FaBrand "),
+                    Icon(FaBrand(FaB.fa500px)),
+                  ],
+                )),
             Container(
                 margin: const EdgeInsets.symmetric(vertical: 10),
-                child: const Icon(FaRegular(Fa.faAirConditioner))),
+                child: Row(
+                  children: const [
+                    Text("FaRegular "),
+                    Icon(FaRegular(Fa.faAirConditioner)),
+                  ],
+                )),
             Container(
                 margin: const EdgeInsets.symmetric(vertical: 10),
-                child: const Icon(FaSolid(Fa.faAirConditioner))),
+                child: Row(
+                  children: const [
+                    Text("FaSolid "),
+                    Icon(FaSolid(Fa.faAirConditioner)),
+                  ],
+                )),
             Container(
                 margin: const EdgeInsets.symmetric(vertical: 10),
-                child: const Icon(FaLight(Fa.faAirConditioner))),
-            // Container(
-            //     margin: const EdgeInsets.symmetric(vertical: 10),
-            //     child: const Icon(FaThin(Fa.faImage))),
+                child: Row(
+                  children: const [
+                    Text("FaLight "),
+                    Icon(FaLight(Fa.faAirConditioner)),
+                  ],
+                )),
             Container(
                 margin: const EdgeInsets.symmetric(vertical: 10),
                 width: double.infinity,
-                child: const Icon(FaDuotone(Fa.faImage)))
+                child: Row(
+                  children: const [
+                    Text("FaDuotone "),
+                    Icon(FaDuotone(Fa.faImage)),
+                  ],
+                )),
+            Row(
+              children: const [
+                Text("FaIcon "),
+                FaIcon(FaDuotone(Fa.faAirConditioner)),
+              ],
+            )
           ],
         ),
       ),
