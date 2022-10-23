@@ -1007,7 +1007,7 @@ class Fa {
   static const int faForklift = 0xf47a;
   static const int faArrowUpFromGroundWater = 0xe4b5;
   static const int faBracketSquareRight = 0x5d;
-  // static const int faMartiniGlass = 0xf57b;
+  static const int faMartiniGlass = 0xf57b;
   static const int faUndoAlt = 0xf2ea;
   static const int faTableColumns = 0xf0db;
   static const int faSquareA = 0xe25f;
