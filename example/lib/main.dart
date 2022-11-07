@@ -31,7 +31,7 @@ class _MyAppState extends State<MyApp> {
                 child: Row(
                   children: const [
                     Text("FaBrand "),
-                    Icon(FaBrand(FaB.fa500px)),
+                    Icon(FaBrand(FaB.f500px)),
                   ],
                 )),
             Container(
@@ -39,7 +39,7 @@ class _MyAppState extends State<MyApp> {
                 child: Row(
                   children: const [
                     Text("FaRegular "),
-                    Icon(FaRegular(Fa.faArrowUpArrowDown)),
+                    Icon(FaRegular(Fa.arrowUpArrowDown)),
                   ],
                 )),
             Container(
@@ -47,7 +47,7 @@ class _MyAppState extends State<MyApp> {
                 child: Row(
                   children: const [
                     Text("FaSolid "),
-                    Icon(FaSolid(Fa.faAirConditioner)),
+                    Icon(FaSolid(Fa.airConditioner)),
                   ],
                 )),
             Container(
@@ -55,7 +55,7 @@ class _MyAppState extends State<MyApp> {
                 child: Row(
                   children: const [
                     Text("FaLight "),
-                    Icon(FaLight(Fa.faMagnifyingGlass)),
+                    Icon(FaLight(Fa.magnifyingGlass)),
                   ],
                 )),
             Container(
@@ -64,13 +64,13 @@ class _MyAppState extends State<MyApp> {
                 child: Row(
                   children: const [
                     Text("FaDuotone "),
-                    Icon(FaDuotone(Fa.faImage)),
+                    Icon(FaDuotone(Fa.image)),
                   ],
                 )),
             Row(
               children: const [
                 Text("FaIcon "),
-                FaIcon(FaDuotone(Fa.faDroplet)),
+                FaIcon(FaDuotone(Fa.droplet)),
               ],
             ),
           ],
