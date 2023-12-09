@@ -991,6 +991,7 @@ class Fa {
   static const int frog = 0xf52e;
   static const int bucket = 0xe4cf;
   static const int floppyDiskPen = 0xe182;
+  static const int productHunt = 0xf288;
   static const int image = 0xf03e;
   static const int windowFrame = 0xe04f;
   static const int microphone = 0xf130;

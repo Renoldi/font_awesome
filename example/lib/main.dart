@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome/font_awesome.dart';
+
 void main() {
   runApp(const MyApp());
 }
@@ -28,32 +29,32 @@ class _MyAppState extends State<MyApp> {
           children: [
             Container(
                 margin: const EdgeInsets.symmetric(vertical: 10),
-                child: Row(
-                  children: const [
+                child: const Row(
+                  children: [
                     Text("FaBrand "),
                     Icon(FaBrand(FaB.f500px)),
                   ],
                 )),
             Container(
                 margin: const EdgeInsets.symmetric(vertical: 10),
-                child: Row(
-                  children: const [
+                child: const Row(
+                  children: [
                     Text("FaRegular "),
                     Icon(FaRegular(Fa.arrowUpArrowDown)),
                   ],
                 )),
             Container(
                 margin: const EdgeInsets.symmetric(vertical: 10),
-                child: Row(
-                  children: const [
+                child: const Row(
+                  children: [
                     Text("FaSolid "),
                     Icon(FaSolid(Fa.airConditioner)),
                   ],
                 )),
             Container(
                 margin: const EdgeInsets.symmetric(vertical: 10),
-                child: Row(
-                  children: const [
+                child: const Row(
+                  children: [
                     Text("FaLight "),
                     Icon(FaLight(Fa.magnifyingGlass)),
                   ],
@@ -61,14 +62,14 @@ class _MyAppState extends State<MyApp> {
             Container(
                 margin: const EdgeInsets.symmetric(vertical: 10),
                 width: double.infinity,
-                child: Row(
-                  children: const [
+                child: const Row(
+                  children: [
                     Text("FaDuotone "),
                     Icon(FaDuotone(Fa.image)),
                   ],
                 )),
-            Row(
-              children: const [
+            const Row(
+              children: [
                 Text("FaIcon "),
                 FaIcon(FaDuotone(Fa.droplet)),
               ],
